@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **en coderhouse**
 
-- 📫 How to reach me **mariano.lizarza@hotmail.com**
+- 📫 How to reach me **milangelagalea@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
